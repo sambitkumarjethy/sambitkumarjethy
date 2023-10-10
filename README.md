@@ -1,6 +1,6 @@
 - 👋 Hi, Im @sambitkumarjethy
-- 👀 I’m currently working on JavaScript (React Js and Node js) 
-- 🌱 I’m currently learning Python
+- 👀 I’m currently working on JavaScript (React Js and Node js)
+- 🌱 I’m currently learning NextJS
 - 📫 How to reach me sambitkumarjethy@gmail.com
 - ✨ I would love to work in javscript and python in my very recent future.
 
